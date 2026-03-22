@@ -23,11 +23,6 @@
 - **DatabaseService.cs:** `"sdi_upm_db"`
 - **database_setup.sql:** `sdi_upm_db`
 
-### 2.3 Error tipográfico
-- **MainLayout.razor (footer):** "Pedimiento" → debería ser "Pedimento" me mame xd.
-
----
-
 ## 3. ARQUITECTURA Y PERSISTENCIA
 
 ### 3.1 Dos sistemas de usuarios separados
